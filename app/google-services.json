@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "25331360167",
+    "firebase_url": "https://siamclassic-1ad52.firebaseio.com",
+    "project_id": "siamclassic-1ad52",
+    "storage_bucket": "siamclassic-1ad52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25331360167:android:d061b8a13d57e043",
+        "android_client_info": {
+          "package_name": "com.example.chengen.siamclassic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25331360167-erdnrljdghcm9l9cadi6vd0hb8a5i4bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chengen.siamclassic",
+            "certificate_hash": "94ab9ac58cf97e33ed874f46565b04e2a8050de3"
+          }
+        },
+        {
+          "client_id": "25331360167-snhu0a5vfo74h81fcfq97qkqobcnkhd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFO74u3xi07GpIuRgCFqUFsJagha523n8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25331360167-snhu0a5vfo74h81fcfq97qkqobcnkhd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
